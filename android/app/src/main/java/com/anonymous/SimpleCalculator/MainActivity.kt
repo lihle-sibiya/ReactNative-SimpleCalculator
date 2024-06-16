@@ -1,4 +1,4 @@
-package com.simplecalculator
+package com.anonymous.SimpleCalculator
 
 import android.os.Build
 import android.os.Bundle
